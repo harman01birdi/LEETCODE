@@ -9,6 +9,7 @@
 | [0054-spiral-matrix](https://github.com/harman01birdi/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/harman01birdi/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harman01birdi/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/harman01birdi/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/harman01birdi/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -30,6 +31,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/harman01birdi/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harman01birdi/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/harman01birdi/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
@@ -46,4 +48,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/harman01birdi/LEETCODE/tree/master/0001-two-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/harman01birdi/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/harman01birdi/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/harman01birdi/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
