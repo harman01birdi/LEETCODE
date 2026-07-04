@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harman01birdi/LEETCODE/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/harman01birdi/LEETCODE/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/harman01birdi/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/harman01birdi/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/harman01birdi/LEETCODE/tree/master/0074-search-a-2d-matrix) |
@@ -51,9 +52,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/harman01birdi/LEETCODE/tree/master/0015-3sum) |
 | [0287-find-the-duplicate-number](https://github.com/harman01birdi/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/harman01birdi/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/harman01birdi/LEETCODE/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
