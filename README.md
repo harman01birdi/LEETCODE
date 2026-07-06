@@ -62,6 +62,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harman01birdi/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/harman01birdi/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/harman01birdi/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/harman01birdi/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -75,4 +76,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/harman01birdi/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/harman01birdi/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
