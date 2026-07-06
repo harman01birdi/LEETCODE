@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/harman01birdi/LEETCODE/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/harman01birdi/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/harman01birdi/LEETCODE/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/harman01birdi/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/harman01birdi/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/harman01birdi/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/harman01birdi/LEETCODE/tree/master/0074-search-a-2d-matrix) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0015-3sum](https://github.com/harman01birdi/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/harman01birdi/LEETCODE/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/harman01birdi/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/harman01birdi/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/harman01birdi/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
