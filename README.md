@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/harman01birdi/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/harman01birdi/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/harman01birdi/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/harman01birdi/LEETCODE/tree/master/0078-subsets) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harman01birdi/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/harman01birdi/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/harman01birdi/LEETCODE/tree/master/0287-find-the-duplicate-number) |
@@ -71,6 +72,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/harman01birdi/LEETCODE/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/harman01birdi/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/harman01birdi/LEETCODE/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/harman01birdi/LEETCODE/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
