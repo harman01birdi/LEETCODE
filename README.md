@@ -25,11 +25,13 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harman01birdi/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/harman01birdi/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/harman01birdi/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/harman01birdi/LEETCODE/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/harman01birdi/LEETCODE/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/harman01birdi/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -80,4 +82,12 @@
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/harman01birdi/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/harman01birdi/LEETCODE/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/harman01birdi/LEETCODE/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
