@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harman01birdi/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0131-palindrome-partitioning](https://github.com/harman01birdi/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/harman01birdi/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
@@ -99,6 +100,7 @@
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/harman01birdi/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harman01birdi/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 ## Recursion
 |  |
@@ -117,4 +119,5 @@
 | [0051-n-queens](https://github.com/harman01birdi/LEETCODE/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/harman01birdi/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harman01birdi/LEETCODE/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/harman01birdi/LEETCODE/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
