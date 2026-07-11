@@ -20,6 +20,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/harman01birdi/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/harman01birdi/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/harman01birdi/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/harman01birdi/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/harman01birdi/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/harman01birdi/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/harman01birdi/LEETCODE/tree/master/0704-binary-search) |
@@ -47,6 +48,7 @@
 | [0074-search-a-2d-matrix](https://github.com/harman01birdi/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harman01birdi/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/harman01birdi/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/harman01birdi/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/harman01birdi/LEETCODE/tree/master/0704-binary-search) |
 ## Matrix
 |  |
@@ -65,6 +67,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/harman01birdi/LEETCODE/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/harman01birdi/LEETCODE/tree/master/0037-sudoku-solver) |
+| [0349-intersection-of-two-arrays](https://github.com/harman01birdi/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/harman01birdi/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/harman01birdi/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -76,6 +79,7 @@
 | [0283-move-zeroes](https://github.com/harman01birdi/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/harman01birdi/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harman01birdi/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/harman01birdi/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -87,6 +91,7 @@
 | ------- |
 | [0015-3sum](https://github.com/harman01birdi/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/harman01birdi/LEETCODE/tree/master/0018-4sum) |
+| [0349-intersection-of-two-arrays](https://github.com/harman01birdi/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
