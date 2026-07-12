@@ -71,6 +71,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/harman01birdi/LEETCODE/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/harman01birdi/LEETCODE/tree/master/0037-sudoku-solver) |
+| [0242-valid-anagram](https://github.com/harman01birdi/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harman01birdi/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harman01birdi/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/harman01birdi/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -97,6 +98,7 @@
 | ------- |
 | [0015-3sum](https://github.com/harman01birdi/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/harman01birdi/LEETCODE/tree/master/0018-4sum) |
+| [0242-valid-anagram](https://github.com/harman01birdi/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harman01birdi/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harman01birdi/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## Prefix Sum
@@ -107,6 +109,7 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/harman01birdi/LEETCODE/tree/master/0131-palindrome-partitioning) |
+| [0242-valid-anagram](https://github.com/harman01birdi/LEETCODE/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harman01birdi/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 ## Recursion
 |  |
