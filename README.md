@@ -25,12 +25,14 @@
 | [0485-max-consecutive-ones](https://github.com/harman01birdi/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/harman01birdi/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/harman01birdi/LEETCODE/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/harman01birdi/LEETCODE/tree/master/0912-sort-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/harman01birdi/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harman01birdi/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harman01birdi/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/harman01birdi/LEETCODE/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | [0242-valid-anagram](https://github.com/harman01birdi/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harman01birdi/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harman01birdi/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0912-sort-an-array](https://github.com/harman01birdi/LEETCODE/tree/master/0912-sort-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -129,4 +132,24 @@
 | [0078-subsets](https://github.com/harman01birdi/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harman01birdi/LEETCODE/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/harman01birdi/LEETCODE/tree/master/0131-palindrome-partitioning) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/harman01birdi/LEETCODE/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/harman01birdi/LEETCODE/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/harman01birdi/LEETCODE/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/harman01birdi/LEETCODE/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/harman01birdi/LEETCODE/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
