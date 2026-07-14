@@ -26,6 +26,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/harman01birdi/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/harman01birdi/LEETCODE/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/harman01birdi/LEETCODE/tree/master/0912-sort-an-array) |
+| [2596-check-knight-tour-configuration](https://github.com/harman01birdi/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/harman01birdi/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -63,11 +64,13 @@
 | [0054-spiral-matrix](https://github.com/harman01birdi/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/harman01birdi/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harman01birdi/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [2596-check-knight-tour-configuration](https://github.com/harman01birdi/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/harman01birdi/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/harman01birdi/LEETCODE/tree/master/0054-spiral-matrix) |
+| [2596-check-knight-tour-configuration](https://github.com/harman01birdi/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,4 +155,12 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/harman01birdi/LEETCODE/tree/master/0912-sort-an-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/harman01birdi/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/harman01birdi/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
