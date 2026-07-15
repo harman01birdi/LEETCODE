@@ -51,6 +51,7 @@
 | [0268-missing-number](https://github.com/harman01birdi/LEETCODE/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/harman01birdi/LEETCODE/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/harman01birdi/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/harman01birdi/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -172,4 +173,8 @@
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/harman01birdi/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/harman01birdi/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
