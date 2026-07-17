@@ -130,6 +130,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/harman01birdi/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/harman01birdi/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -177,4 +178,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harman01birdi/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/harman01birdi/LEETCODE/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
