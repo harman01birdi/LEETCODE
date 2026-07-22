@@ -14,6 +14,7 @@
 | [0051-n-queens](https://github.com/harman01birdi/LEETCODE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/harman01birdi/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/harman01birdi/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/harman01birdi/LEETCODE/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/harman01birdi/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/harman01birdi/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harman01birdi/LEETCODE/tree/master/0090-subsets-ii) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/harman01birdi/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/harman01birdi/LEETCODE/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/harman01birdi/LEETCODE/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/harman01birdi/LEETCODE/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/harman01birdi/LEETCODE/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/harman01birdi/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
