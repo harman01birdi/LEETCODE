@@ -137,6 +137,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/harman01birdi/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/harman01birdi/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/harman01birdi/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/harman01birdi/LEETCODE/tree/master/0509-fibonacci-number) |
@@ -191,6 +192,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/harman01birdi/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/harman01birdi/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/harman01birdi/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/harman01birdi/LEETCODE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
