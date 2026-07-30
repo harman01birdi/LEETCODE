@@ -135,6 +135,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harman01birdi/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/harman01birdi/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/harman01birdi/LEETCODE/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harman01birdi/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
@@ -207,6 +208,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harman01birdi/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/harman01birdi/LEETCODE/tree/master/0234-palindrome-linked-list) |
 ## Doubly-Linked List
 |  |
