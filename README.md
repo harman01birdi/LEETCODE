@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harman01birdi/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/harman01birdi/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/harman01birdi/LEETCODE/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/harman01birdi/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/harman01birdi/LEETCODE/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/harman01birdi/LEETCODE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/harman01birdi/LEETCODE/tree/master/0053-maximum-subarray) |
@@ -47,6 +48,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/harman01birdi/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/harman01birdi/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/harman01birdi/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/harman01birdi/LEETCODE/tree/master/0392-is-subsequence) |
@@ -105,6 +107,7 @@
 | [0015-3sum](https://github.com/harman01birdi/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/harman01birdi/LEETCODE/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harman01birdi/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/harman01birdi/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harman01birdi/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/harman01birdi/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/harman01birdi/LEETCODE/tree/master/0283-move-zeroes) |
@@ -215,6 +218,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harman01birdi/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/harman01birdi/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harman01birdi/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/harman01birdi/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/harman01birdi/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
@@ -227,6 +231,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/harman01birdi/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harman01birdi/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/harman01birdi/LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Design
