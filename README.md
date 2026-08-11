@@ -98,6 +98,7 @@
 | [0268-missing-number](https://github.com/harman01birdi/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harman01birdi/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harman01birdi/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/harman01birdi/LEETCODE/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harman01birdi/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/harman01birdi/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/harman01birdi/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -149,6 +150,7 @@
 | [0131-palindrome-partitioning](https://github.com/harman01birdi/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/harman01birdi/LEETCODE/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harman01birdi/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/harman01birdi/LEETCODE/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/harman01birdi/LEETCODE/tree/master/0392-is-subsequence) |
 ## Recursion
 |  |
@@ -193,6 +195,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/harman01birdi/LEETCODE/tree/master/0383-ransom-note) |
 | [0912-sort-an-array](https://github.com/harman01birdi/LEETCODE/tree/master/0912-sort-an-array) |
 ## Depth-First Search
 |  |
