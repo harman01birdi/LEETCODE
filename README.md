@@ -205,6 +205,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/harman01birdi/LEETCODE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0572-subtree-of-another-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0572-subtree-of-another-tree) |
@@ -214,6 +215,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/harman01birdi/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 ## Number Theory
 |  |
@@ -286,6 +288,7 @@
 | [0100-same-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harman01birdi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -294,6 +297,7 @@
 | [0100-same-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harman01birdi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
