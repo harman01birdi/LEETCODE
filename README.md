@@ -278,6 +278,7 @@
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/harman01birdi/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/harman01birdi/LEETCODE/tree/master/0239-sliding-window-maximum) |
 ## Greedy
 |  |
