@@ -21,6 +21,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/harman01birdi/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/harman01birdi/LEETCODE/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harman01birdi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/harman01birdi/LEETCODE/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harman01birdi/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/harman01birdi/LEETCODE/tree/master/0239-sliding-window-maximum) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/harman01birdi/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harman01birdi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harman01birdi/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/harman01birdi/LEETCODE/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
@@ -300,6 +302,7 @@
 | [0101-symmetric-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harman01birdi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harman01birdi/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -313,6 +316,7 @@
 | [0101-symmetric-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harman01birdi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harman01birdi/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -335,4 +339,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
