@@ -213,6 +213,7 @@
 | [0101-symmetric-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harman01birdi/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/harman01birdi/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harman01birdi/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -228,6 +229,7 @@
 | [0100-same-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/harman01birdi/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/harman01birdi/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
@@ -242,6 +244,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/harman01birdi/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/harman01birdi/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harman01birdi/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/harman01birdi/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0142-linked-list-cycle-ii](https://github.com/harman01birdi/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/harman01birdi/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/harman01birdi/LEETCODE/tree/master/0234-palindrome-linked-list) |
@@ -311,6 +314,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harman01birdi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harman01birdi/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/harman01birdi/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harman01birdi/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -329,6 +333,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harman01birdi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harman01birdi/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/harman01birdi/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harman01birdi/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
