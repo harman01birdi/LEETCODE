@@ -256,6 +256,7 @@
 | [0042-trapping-rain-water](https://github.com/harman01birdi/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harman01birdi/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harman01birdi/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/harman01birdi/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/harman01birdi/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/harman01birdi/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/harman01birdi/LEETCODE/tree/master/0234-palindrome-linked-list) |
@@ -275,6 +276,7 @@
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/harman01birdi/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/harman01birdi/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/harman01birdi/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
@@ -315,6 +317,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harman01birdi/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/harman01birdi/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/harman01birdi/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harman01birdi/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -334,6 +337,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harman01birdi/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/harman01birdi/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/harman01birdi/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harman01birdi/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -365,7 +369,12 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/harman01birdi/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harman01birdi/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harman01birdi/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/harman01birdi/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
