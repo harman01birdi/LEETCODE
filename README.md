@@ -212,6 +212,7 @@
 | [0100-same-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harman01birdi/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/harman01birdi/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0226-invert-binary-tree) |
@@ -229,6 +230,7 @@
 | [0100-same-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/harman01birdi/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
@@ -315,6 +317,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harman01birdi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harman01birdi/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/harman01birdi/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/harman01birdi/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
@@ -335,6 +338,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harman01birdi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/harman01birdi/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harman01birdi/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/harman01birdi/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/harman01birdi/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
