@@ -129,6 +129,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/harman01birdi/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harman01birdi/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/harman01birdi/LEETCODE/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/harman01birdi/LEETCODE/tree/master/0443-string-compression) |
 | [0905-sort-array-by-parity](https://github.com/harman01birdi/LEETCODE/tree/master/0905-sort-array-by-parity) |
 ## Bit Manipulation
 |  |
@@ -163,6 +164,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/harman01birdi/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/harman01birdi/LEETCODE/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/harman01birdi/LEETCODE/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/harman01birdi/LEETCODE/tree/master/0443-string-compression) |
 ## Recursion
 |  |
 | ------- |
